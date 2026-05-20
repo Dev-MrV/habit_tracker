@@ -203,11 +203,11 @@ The app supports custom local notifications to keep users engaged.
 
 | Login / Signup | Home Screen | Habit Details |
 |:---:|:---:|:---:|
-| ![Login Placeholder](https://github.com/Dev-MrV/habit_tracker/blob/main/evidence/authentication_evidence/login_screen_evidence.png?raw=true) | ![Home Placeholder](https://via.placeholder.com/250x500.png?text=Home+Screen) | ![Details Placeholder](https://via.placeholder.com/250x500.png?text=Habit+Details) |
+| ![Login Placeholder](https://github.com/Dev-MrV/habit_tracker/blob/main/evidence/authentication_evidence/login_screen_evidence.png?raw=true) | ![Home Placeholder](https://github.com/Dev-MrV/habit_tracker/blob/main/evidence/core_screen_evidence/home-screen-evidence.jpg?raw=true) |
 
 | Reports & Analytics | Settings | Notifications |
 |:---:|:---:|:---:|
-| ![Reports Placeholder](https://via.placeholder.com/250x500.png?text=Reports+Screen) | ![Settings Placeholder](https://via.placeholder.com/250x500.png?text=Settings+Screen) | ![Notifications Placeholder](https://via.placeholder.com/250x500.png?text=Notifications) |
+| ![Reports Placeholder](https://github.com/Dev-MrV/habit_tracker/blob/main/evidence/design_evidence/reports.jpg?raw=true) | ![Settings Placeholder](https://github.com/Dev-MrV/habit_tracker/blob/main/evidence/core_screen_evidence/evidence-settings-screen.jpg?raw=true) | ![Notifications Placeholder](https://github.com/Dev-MrV/habit_tracker/blob/main/evidence/notification_evidence/evidence-notification-configure.jpg?raw=true) |
 
 ---
 
