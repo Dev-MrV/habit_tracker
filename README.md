@@ -203,7 +203,7 @@ The app supports custom local notifications to keep users engaged.
 
 | Login / Signup | Home Screen | Habit Details |
 |:---:|:---:|:---:|
-| ![Login Placeholder](https://via.placeholder.com/250x500.png?text=Login+Screen) | ![Home Placeholder](https://via.placeholder.com/250x500.png?text=Home+Screen) | ![Details Placeholder](https://via.placeholder.com/250x500.png?text=Habit+Details) |
+| ![Login Placeholder](https://github.com/Dev-MrV/habit_tracker/blob/main/evidence/authentication_evidence/login_screen_evidence.png?raw=true) | ![Home Placeholder](https://via.placeholder.com/250x500.png?text=Home+Screen) | ![Details Placeholder](https://via.placeholder.com/250x500.png?text=Habit+Details) |
 
 | Reports & Analytics | Settings | Notifications |
 |:---:|:---:|:---:|
