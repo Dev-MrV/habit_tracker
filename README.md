@@ -234,7 +234,7 @@ The app supports custom local notifications to keep users engaged.
 
 ## 👨‍💻 Author
 
-**[Your Name / Developer Name]**
+**[Mrv]**
 - GitHub: [DevMrV](https://github.com/Dev-MrV/)
 - LinkedIn: [MrV](www.linkedin.com/in/mrinal-v)
 
