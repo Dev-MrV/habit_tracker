@@ -235,8 +235,8 @@ The app supports custom local notifications to keep users engaged.
 ## 👨‍💻 Author
 
 **[Your Name / Developer Name]**
-- GitHub: [@yourgithubprofile](https://github.com/yourgithubprofile)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourlinkedinprofile)
+- GitHub: [@yourgithubprofile](https://github.com/Dev-MrV/)
+- LinkedIn: [MrV](www.linkedin.com/in/mrinal-v)
 
 ---
 
