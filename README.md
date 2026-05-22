@@ -46,24 +46,35 @@ The **Habit Tracker App** is designed to empower users to build positive habits 
 
 ## 📂 Folder Structure
 
-```text
-lib/
-├── core/
-│   ├── constants/        # App-wide constants (colors, strings, themes)
-│   ├── utils/            # Helper functions and utilities
-│   └── error/            # Error handling classes
-├── data/
-│   ├── models/           # Data models (Habit, User, etc.)
-│   ├── repositories/     # Data repository implementations
-│   └── sources/          # Local and remote data sources (Supabase, Hive)
-├── domain/
-│   ├── entities/         # Core business entities
-│   └── repositories/     # Repository interfaces
-├── presentation/
-│   ├── screens/          # UI Screens (Home, Login, Settings)
-│   ├── widgets/          # Reusable UI components
-│   └── providers/        # State management classes
-└── main.dart             # App entry point
+```textcodeed/
+├── android/              # Native Android configuration
+├── assets/               # Local assets (images, icons, etc.)
+├── build/                # Compiled output
+├── ios/                  # Native iOS configuration
+├── lib/                  # Main Flutter application code
+│   ├── animated_widget.dart
+│   ├── app_constants.dart
+│   ├── app_theme.dart
+│   ├── auth_provider.dart
+│   ├── google_drive_backup_service.dart
+│   ├── habit_completion_model.dart
+│   ├── habit_model.dart
+│   ├── habit_provider.dart
+│   ├── habit_screen.dart
+│   ├── hive_storage.dart
+│   ├── home_screen.dart
+│   ├── main.dart         # App entry point
+│   ├── main_shell.dart
+│   ├── notification_provider.dart
+│   ├── notification_screen.dart
+│   ├── notification_service.dart
+│   ├── onboarding_screen.dart
+│   ├── profile_screen.dart
+│   ├── report_screen.dart
+│   ├── theme_provider.dart
+│   └── user_model.dart
+├── test/                 # Automated tests
+└── pubspec.yaml          # Project configuration and dependencies
 ```
 
 ---
